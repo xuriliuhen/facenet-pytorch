@@ -8,7 +8,7 @@ dist
 *tmp*
 .coverage
 htmlcov
-test.py
+
 .cache
 .ipython
 .local
