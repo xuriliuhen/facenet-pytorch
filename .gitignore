@@ -13,4 +13,4 @@ test.py
 .ipython
 .local
 
-data/test_images-org/zzj*
+data/test_images-org/zzj_*
