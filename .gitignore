@@ -12,3 +12,5 @@ test.py
 .cache
 .ipython
 .local
+
+data/test_images-org/zzj*
